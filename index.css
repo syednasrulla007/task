@@ -1,0 +1,51 @@
+.p{
+    height: 50px;
+    width: 100%;
+    position: relative;
+    background-color:whitesmoke;
+}
+.c1{
+    top: 1rem;
+    left:1rem;
+    font-size: large;
+    text-decoration: underline;
+    position: absolute;
+}
+.c2{
+    top: 1rem;
+    left: 900px;
+    position: absolute;
+}
+.c3{
+    top: 1rem;
+    right: 400px;
+    position: absolute;
+}
+.c4{
+    top: 1rem;
+    right: 250px ;
+    position: absolute;
+}
+.c5{
+    top: 1rem;
+    right: 100px;
+    position: absolute;
+}
+.p2{
+   width: 100%;
+   height: 100px;
+   position: relative;
+}
+.ch1{
+height:40px;
+width: 100px;
+border-radius: 30px;
+position: absolute;
+text-align: center ;
+color: aliceblue;
+right: 600px;
+background-image: linear-gradient(
+    orange ,
+    red
+    );
+}
